@@ -1,0 +1,13 @@
+2024-08-25 17:54:38.817 [info] Extension host with pid 35133 started
+2024-08-25 17:54:38.817 [info] Skipping acquiring lock for /home/vstkxj/.config/Code/User/workspaceStorage/cdac57b00fbf5eb9d24723a22e92388b.
+2024-08-25 17:54:39.001 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-25 17:54:39.171 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-25 17:54:39.173 [info] ExtensionService#_doActivateExtension lihui.vs-color-picker, startup: true, activationEvent: '*'
+2024-08-25 17:54:39.240 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-25 17:54:39.274 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-25 17:54:39.451 [info] Eager extensions activated
+2024-08-25 17:54:39.484 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:54:39.486 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:54:39.492 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:54:45.443 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-25 17:54:45.458 [info] Extension host with pid 35133 exiting with code 0

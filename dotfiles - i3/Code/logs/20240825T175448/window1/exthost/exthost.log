@@ -1,0 +1,40 @@
+2024-08-25 17:54:49.808 [info] Extension host with pid 35361 started
+2024-08-25 17:54:49.808 [info] Skipping acquiring lock for /home/vstkxj/.config/Code/User/workspaceStorage/cdac57b00fbf5eb9d24723a22e92388b.
+2024-08-25 17:54:49.986 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-25 17:54:50.155 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-25 17:54:50.157 [info] ExtensionService#_doActivateExtension lihui.vs-color-picker, startup: true, activationEvent: '*'
+2024-08-25 17:54:50.185 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-25 17:54:50.218 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-25 17:54:50.285 [info] Eager extensions activated
+2024-08-25 17:54:50.316 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:54:50.322 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:54:50.355 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.409 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.410 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.411 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 17:55:07.412 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-08-25 18:02:16.848 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-25 18:02:16.858 [info] Extension host with pid 35361 exiting with code 0
