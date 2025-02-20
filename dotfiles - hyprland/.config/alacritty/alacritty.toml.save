@@ -1,0 +1,64 @@
+[window]
+padding = {x = 16, y = 14}
+opacity = 0.70
+blur = true
+
+[colors]
+  [colors.primary]
+  background = '#161721'
+  foreground = '#C0CAF5'
+
+  [colors.normal]
+  black = '#4A4A4A'
+  red = '#e03434'
+  green = '#34D115'
+  yellow = '#E6BF12'
+  blue = '#1275E6'
+  magenta = '#D916A8'
+  cyan = '#2bdefa'
+  white = '#DCDEDE'
+
+  [colors.bright]
+  black = '#757575'
+  red = '#e35959'
+  green = '#7de382'
+  yellow = '#f0d671'
+  blue = '#61AFEF'
+  magenta = '#F05BCD'
+  cyan = '#3DD9D7'
+  white = '#FFFFFF'
+
+[font]
+size = 16.0
+
+[font.bold]
+family = "MesloLGS Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "MesloLGS Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "MesloLGS Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGS Nerd Font Mono"
+style = "Regular"
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+blink_interval = 725
+thickness = 0.25
+unfocused_hollow = false
+
+#[font]
+#  [font.normal]
+#  family = "CaskaydiaCove NFM"
+#
+# [font.bold]
+#  family = "CaskaydiaCove NFM"
+#
+#  [font.italic]
+#  family = "CaskaydiaCove NFM"
