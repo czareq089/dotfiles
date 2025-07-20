@@ -1,3 +1,0 @@
-2024-08-30 00:18:17.129 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/vstkxj/shift.py","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
-2024-08-30 00:18:17.387 [info] Started local extension host with pid 8607.
-2024-08-30 00:18:20.045 [info] [perf] Render performance baseline is 24ms
